@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **businesssubhadip@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/subhadip-biswas-7824a2283/](https://www.linkedin.com/in/subhadip-biswas-7824a2283/)
+- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/subhadip-biswas-7824a2283/)
 
 - ⚡ Fun fact **I PLAY GUITAR, FOOTBALL, BADMINTON, GAMING, ASTROPHOTOGRAPHY**
 
@@ -32,7 +32,7 @@
 <a href="https://linkedin.com/in/subhadipbiswas7824a2283" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subhadip-biswas-7824a2283" height="30" width="40" /></a>
 <a href="https://fb.com/subhadip.biswas.2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="subhadip.biswas.2004" height="30" width="40" /></a>
 <a href="https://instagram.com/astro_subhadip" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="astro_subhadip" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/astro_subhadip" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="astro ssubhadip" height="30" width="40" /></a>
+<a href="https://www.youtube.com/astro_subhadip" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="astro ssubhadip" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

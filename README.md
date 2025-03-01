@@ -10,6 +10,7 @@
 - 🔭 I’m currently working on
 - [Your Fitness Coach SUBHADIP](https://astrosubhadip.my.canva.site/your-fitness-coach-subhadip)
 - [Cancer Detection AI model](https://github.com/subhadip2004999/Cancer-identify-AI-model)
+- [Emotion Detection AI model](https://github.com/subhadip2004999/Emotion-Detection-AI-model)
 
 - 🌱 I’m currently learning **AI ML, C++, Python, DSA, Web development, Adobe Premiere Pro, React JS, Google Collab**
 

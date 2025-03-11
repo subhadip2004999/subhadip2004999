@@ -11,6 +11,7 @@
 - [Your Fitness Coach SUBHADIP](https://astrosubhadip.my.canva.site/your-fitness-coach-subhadip)
 - [Cancer Detection AI model](https://github.com/subhadip2004999/Cancer-identify-AI-model)
 - [Emotion Detection AI model](https://github.com/subhadip2004999/Emotion-Detection-AI-model)
+- [Crypto Expert 2.O](https://crypto-expert-7c2395.zapier.app/)
 - [Fitnavi Sperk login page](https://fitnavi-spark-journey.lovable.app/)
 - [Crypto Mentor AI chatbot](https://github.com/subhadip2004999/crypto-mentor-bot/tree/main)
 

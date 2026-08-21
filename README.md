@@ -17,8 +17,7 @@
 
 - 📫 How to reach me **bsubhadip114@gmail.com**
 
-- ⚡ Project Working **E-Bank-Bank** [Website is Live](https://bloodbank-image-latest.onrender.com/Landing.jsp)
-
+- ⚡ Fun fact about me **Playing Guitar, Going to Gym, Playing Football**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/check subhadip-biswas-7824a2283" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="check subhadip-biswas-7824a2283" height="30" width="40" /></a>

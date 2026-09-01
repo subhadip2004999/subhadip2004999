@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Subhadip Biswas</h1>
-<h3 align="center">Java Programmer, Web Developer, Backend, Spring Boot, JDBC Databases, APIs</h3>
+<h3 align="center">Java Programmer, WebApp Developer, Backend, Spring Boot, JDBC, MySQL/PostgreSQL Databases, APIs, Docker, GitHub/Render Deployment</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhadip2004999&label=Profile%20views&color=0e75b6&style=flat" alt="subhadip2004999" /> </p>
 
